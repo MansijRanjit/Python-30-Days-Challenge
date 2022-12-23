@@ -1,5 +1,8 @@
 # print("Supermansij")
 
+a="5"
+type(a)
+
 # a="5"
 # b="4"
 # c=a+b
@@ -26,6 +29,7 @@
 #     print(i,end=' ')
 #   print()
 
+
 """Exception Handling"""  
 # try:
 #   print(x)
@@ -41,6 +45,6 @@
 # print(num1+num2)
 
 """Write a program to input first and last name and print last name and then firstname"""
-firstname=input("Enter First name:")
-lastname=input("Enter last name:")
-print("Hello"+ " "+ lastname+" "+firstname)
+# firstname=input("Enter First name:")
+# lastname=input("Enter last name:")
+# print("Hello"+ " "+ lastname+" "+firstname)
