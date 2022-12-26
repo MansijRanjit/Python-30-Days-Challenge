@@ -60,3 +60,15 @@ Current no is: 10 and previous number is: 9.The sum of Number is:19
 #     print("{} is {}".format(key,value))
 
 # intro(Name="Supermansij",Address="Kalanki",Phone=9840253456,Email="mansijranjit@gmail.com")
+
+
+"""Python Recursion"""
+# def factorial(x):
+#   if x==1:
+#     return 1
+#   else:
+#     return(x*factorial(x-1))
+
+# print(factorial(4))
+
+
